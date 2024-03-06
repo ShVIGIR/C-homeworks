@@ -1,0 +1,14 @@
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\bin\Debug\net6.0\Test.ConsoleApp.exe
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\bin\Debug\net6.0\Test.ConsoleApp.deps.json
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\bin\Debug\net6.0\Test.ConsoleApp.runtimeconfig.json
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\bin\Debug\net6.0\Test.ConsoleApp.dll
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\bin\Debug\net6.0\Test.ConsoleApp.pdb
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\obj\Debug\net6.0\Test.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\obj\Debug\net6.0\Test.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\obj\Debug\net6.0\Test.ConsoleApp.AssemblyInfo.cs
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\obj\Debug\net6.0\Test.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\obj\Debug\net6.0\Test.ConsoleApp.dll
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\obj\Debug\net6.0\refint\Test.ConsoleApp.dll
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\obj\Debug\net6.0\Test.ConsoleApp.pdb
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\obj\Debug\net6.0\Test.ConsoleApp.genruntimeconfig.cache
+C:\Users\Радица\Desktop\C# basic\Qinshift.ConsoleApp\Test.ConsoleApp\Test.ConsoleApp\obj\Debug\net6.0\ref\Test.ConsoleApp.dll
