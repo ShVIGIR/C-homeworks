@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class 2 - homework\\Class2\\RealCalculator\\RealCalculator.csproj": {}
+    "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class2\\RealCalculator\\RealCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class 2 - homework\\Class2\\RealCalculator\\RealCalculator.csproj": {
+    "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class2\\RealCalculator\\RealCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class 2 - homework\\Class2\\RealCalculator\\RealCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class2\\RealCalculator\\RealCalculator.csproj",
         "projectName": "RealCalculator",
-        "projectPath": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class 2 - homework\\Class2\\RealCalculator\\RealCalculator.csproj",
+        "projectPath": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class2\\RealCalculator\\RealCalculator.csproj",
         "packagesPath": "C:\\Users\\Радица\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class 2 - homework\\Class2\\RealCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class2\\RealCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Радица\\AppData\\Roaming\\NuGet\\NuGet.Config",

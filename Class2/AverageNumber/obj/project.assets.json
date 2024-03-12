@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class 2 - homework\\Class2\\AverageNumber\\AverageNumber.csproj",
+      "projectUniqueName": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class2\\AverageNumber\\AverageNumber.csproj",
       "projectName": "AverageNumber",
-      "projectPath": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class 2 - homework\\Class2\\AverageNumber\\AverageNumber.csproj",
+      "projectPath": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class2\\AverageNumber\\AverageNumber.csproj",
       "packagesPath": "C:\\Users\\Радица\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class 2 - homework\\Class2\\AverageNumber\\obj\\",
+      "outputPath": "C:\\Users\\Радица\\Desktop\\Seavus\\C#\\Homeworks\\C-homeworks\\Class2\\AverageNumber\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Радица\\AppData\\Roaming\\NuGet\\NuGet.Config",
